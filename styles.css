@@ -16,8 +16,8 @@ padding: 0px 100px;
   display: flex;
   margin: 50px auto;
   font-size: 25px;
-  -webkit-text-stroke: 2px rgba(255, 18, 1, 0.705)
-  background-color: blue;
+  -webkit-text-stroke: 2px rgba(224, 221, 26, 0.705)
+  background-color: pink;
   justify-content: center;
   align-items: center;
   border-radius: 8px; 
